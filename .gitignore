@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated files in outputs/ (README.md is tracked)
+outputs/*
+!outputs/README.md
